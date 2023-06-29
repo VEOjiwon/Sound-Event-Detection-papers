@@ -22,6 +22,8 @@
 * \[2022/03\] [**RCT: RANDOM CONSISTENCY TRAINING
 FOR SEMI-SUPERVISED SOUND EVENT DETECTION**](https://arxiv.org/pdf/2110.11144.pdf)
 
+* \[2022/05\] [**FILTERAUGMENT: AN ACOUSTIC ENVIRONMENTAL DATA AUGMENTATION METHOD**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747680)
+
 * \[2022/07\] [**Frequency Dynamic Convolution: Frequency-Adaptive Pattern Recognition for Sound Event Detection**](https://arxiv.org/pdf/2203.15296.pdf)
 
 * \[2022/10\] [**Sound Event Detection Using Attention and Aggregation-Based Feature Pyramid Network**](https://ieeexplore.ieee.org/document/9943734)
