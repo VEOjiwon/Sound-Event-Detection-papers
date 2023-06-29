@@ -1,6 +1,6 @@
 # <h1 align="center">:star2: Sound Event Detection Papers :star2:</h1>
   
-<p align=center><i> DCASE Challenge Task4, Audio Tagging (Classification),Semi-supervised Learning, Audio Spectrogram Transformer, CRNN </i></p>  
+<p align=center><i> DCASE Challenge Task4, Sound Event Detection, Audio Tagging (Classification),Semi-supervised Learning, </i></p>  
 
 ## DCASE Challenge Task4 SOTA
 * \[2019/07\] [**Baseline:Sound event detection in domestic environments with weakly labeled data and soundscape synthesis**](https://inria.hal.science/hal-02160855/)
