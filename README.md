@@ -11,7 +11,7 @@
 
 * \[2022/07\] [**PRE-TRAINING AND SELF-TRAINING FOR SOUND EVENT DETECTION IN DOMESTIC ENVIRONMENTS**](https://dcase.community/documents/challenge2022/technical_reports/DCASE2022_Ebbers_125_t4.pdf)
 
-* \[2023/07\] [**Single Model Track: SEMI-SUPERVISED LEARNING-BASED SOUND EVENT DETECTION USING FREQUENCY DYNAMIC CONVOLUTION WITH LARGE KERNEL ATTENTION FOR DCASE CHALLENGE 2023 TASK 4**](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Kim_82_t4a.pdf)
+* [⭐mine⭐]\[2023/07\] [**Single Model Track: SEMI-SUPERVISED LEARNING-BASED SOUND EVENT DETECTION USING FREQUENCY DYNAMIC CONVOLUTION WITH LARGE KERNEL ATTENTION FOR DCASE CHALLENGE 2023 TASK 4**](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Kim_82_t4a.pdf)
 
 * \[2023/07\] [**Ensemble Model Track: SOUND EVENT DETECTION WITH WEAK PREDICTION FOR DCASE 2023 CHALLENGE TASK4A**](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Zhang_63_t4a.pdf)
 
@@ -26,12 +26,12 @@ FOR SEMI-SUPERVISED SOUND EVENT DETECTION**](https://arxiv.org/pdf/2110.11144.pd
 
 * \[2022/07\] [**Frequency Dynamic Convolution: Frequency-Adaptive Pattern Recognition for Sound Event Detection**](https://arxiv.org/pdf/2203.15296.pdf)
 
-* \[2022/10\] [**Sound Event Detection Using Attention and Aggregation-Based Feature Pyramid Network**](https://ieeexplore.ieee.org/document/9943734)
+* [⭐mine⭐]\[2022/10\] [**Sound Event Detection Using Attention and Aggregation-Based Feature Pyramid Network**](https://ieeexplore.ieee.org/document/9943734)
 
 * \[2023/01\] [**THRESHOLD INDEPENDENT EVALUATION OF SOUND EVENT DETECTION SCORES**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747556)
 
 
-* \[2023/01\] [**Sound Event Detection Using EfficientNet-B2 with an Attentional Pyramid Network**](https://ieeexplore.ieee.org/document/10043590)
+* [⭐mine⭐]\[2023/01\] [**Sound Event Detection Using EfficientNet-B2 with an Attentional Pyramid Network**](https://ieeexplore.ieee.org/document/10043590)
 
 * \[2023/05\] [**AST-SED: AN EFFECTIVE SOUND EVENT DETECTION METHOD BASED ON AUDIO SPECTROGRAM TRANSFORMER**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096853)
 
