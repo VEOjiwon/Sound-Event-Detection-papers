@@ -37,6 +37,8 @@ FOR SEMI-SUPERVISED SOUND EVENT DETECTION**](https://arxiv.org/pdf/2110.11144.pd
 
 * \[2023/05\] [**MULTI-DIMENSIONAL FREQUENCY DYNAMIC CONVOLUTION WITH CONFIDENT MEAN TEACHER FOR SOUND EVENT DETECTION**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096306)
 
+* \[2024/06\] [**PUSHING THE LIMIT OF SOUND EVENT DETECTION WITH MULTI-DILATED FREQUENCY DYNAMIC CONVOLUTION**](https://arxiv.org/pdf/2406.13312)
+
 
 ## Audio Tagging
 * \[2020/10\] [**PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9229505)
@@ -53,7 +55,10 @@ FOR SEMI-SUPERVISED SOUND EVENT DETECTION**](https://arxiv.org/pdf/2110.11144.pd
 
 * \[2022/06\] [**SSAST: Self-Supervised Audio Spectrogram Transformer**](https://ojs.aaai.org/index.php/AAAI/article/view/21315)
 
+* \[2022/11\] [**ATST: Audio Representation Learning with Teacher-Student Transformer**](https://arxiv.org/pdf/2204.12076)
+
 * \[2022/12\] [**BEATs: Audio Pre-Training with Acoustic Tokenizers**](https://arxiv.org/pdf/2212.09058.pdf)
+
 
 ## Semi-supervised Learning
 
